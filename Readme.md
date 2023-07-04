@@ -12,7 +12,7 @@ By visualizing the sorting process, users can gain a better understanding of how
 
 • Clone the repository 
 
-``` git clone https://github.com/manojmadam/Algorithm_visualizer07.git ```
+```git clone https://github.com/manojmadam/Algorithm_visualizer07.git```
 
 <h3>Step 2:</h3> 
 
