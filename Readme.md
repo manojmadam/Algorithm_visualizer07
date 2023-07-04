@@ -1,4 +1,4 @@
-# Sorting-Visualizer
+# Sorting-visualizer
 
 Sorting visualization is a program that demonstrates the process of sorting a list of elements using various sorting algorithms. It provides a graphical representation of how the elements are rearranged at each step of the sorting process.
 
