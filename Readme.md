@@ -1,30 +1,42 @@
-# Sorting Algorithm Visualizer
+# Sorting-Visualizer
 
-<a href="https://www.youtube.com/watch?v=4iM-eggaS2I">
+Sorting visualization is a program that demonstrates the process of sorting a list of elements using various sorting algorithms. It provides a graphical representation of how the elements are rearranged at each step of the sorting process.
 
-![algovis](https://github.com/GSAUC3/RajarshiBanerjee/blob/master/images/algovis.gif)
-</a>
+By visualizing the sorting process, users can gain a better understanding of how different sorting algorithms work and compare their efficiency and performance.
 ***
-### A gui application to visualize various sorting algorithms using pure python.
-    
-How you can use it: 
-- Fork & clone this repo in your local machine
-- Run the following two commands and you are done. It's that easy.
 
-```
-pip install -r requirements.txt
-```
-```
-python main.py
-```
-Or python3 based on the OS you are on. 
+
+<h2>Project Setup Process :</h2>
+
+<h3>Step 1:</h3> 
+
+• Clone the repository 
+
+``` git clone https://github.com/manojmadam/Algorithm_visualizer07.git ```
+
+<h3>Step 2:</h3> 
+
+• Run the following command that installs the all the dependence packages.
+
+
+```pip install -r requirements.txt```
+
+<h3>Step 3:</h3> 
+
+Now type following command to run project...<br>
+
+
+```python Main.py```<br>
+
+<h3>Step 4:</h3> 
+
+Press the "Sort" button to initiate the visualization of the sorting algorithm and witness the sorting<br>algorithm in action.
+
 ***
 ### Sorting algorithms Covered
 - Bubble Sort
 - Insertion Sort
 - Selection Sort
-- Merge Sort
-- Quick Sort
-
+- Merge Sort (upcoming feature )
 
 ***
