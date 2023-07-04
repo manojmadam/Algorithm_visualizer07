@@ -40,3 +40,6 @@ Press the "Sort" button to initiate the visualization of the sorting algorithm a
 - Merge Sort (upcoming feature )
 
 ***
+<h3>Prerequisites:</h3>
+• Python 3.6 or later <br>
+• Tkinter library
