@@ -26,7 +26,7 @@ By visualizing the sorting process, users can gain a better understanding of how
 Now type following command to run project...<br>
 
 
-```python Main.py```<br>
+```python Sorting_visualizer.py```<br>
 
 <h3>Step 4:</h3> 
 
